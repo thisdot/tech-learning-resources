@@ -15,6 +15,8 @@ We would love to know which resources you think deserve to be included in our li
 
 ### **Books**
 - Secrets of the JavaScript Ninja
+-[Eloquent Javascript](https://eloquentjavascript.net/)
+
 ### **Courses**
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 
