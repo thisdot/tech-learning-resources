@@ -51,5 +51,5 @@ We would love to know which resources you think deserve to be included in our li
 - [Developer Tea](https://developertea.com/)
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
-- [Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
+- [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 
