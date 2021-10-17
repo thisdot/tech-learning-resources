@@ -17,6 +17,7 @@ We would love to know which resources you think deserve to be included in our li
 - Secrets of the JavaScript Ninja
 ### **Courses**
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
+- [CS50: Introduction To Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) by Harvard University
 
 ### **Podcasts**
 
