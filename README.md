@@ -37,9 +37,9 @@ We would love to know which resources you think deserve to be included in our li
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
 - [Foundations of User Experience (UX) Design](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design) by Google
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
+- [CS50: Introduction To Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) by Harvard University
 - [Full stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) by The Odin Project
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) by The University of Michigan
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) by Harvard University
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) by MIT
 
 ### **Podcasts**
