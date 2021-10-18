@@ -23,7 +23,9 @@ We would love to know which resources you think deserve to be included in our li
 - [The Odin Project](https://www.theodinproject.com/)
 - [Scrimba](https://scrimba.com/)
 
-### **YouTube channels**
+### **Youtube channels**
+- [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
+- [Coding Addict](https://www.youtube.com/c/CodingAddict)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
