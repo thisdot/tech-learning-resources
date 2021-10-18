@@ -30,7 +30,8 @@ We would love to know which resources you think deserve to be included in our li
 - [CS Dojo](https://www.youtube.com/c/CSDojo)
 
 ### **Books**
-- Secrets of the JavaScript Ninja
+- [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
 
 ### **Courses**
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
