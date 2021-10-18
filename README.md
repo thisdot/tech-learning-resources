@@ -11,6 +11,8 @@ We would love to know which resources you think deserve to be included in our li
 - [Fireship](https://fireship.io/)
 
 ### **Youtube channels**
+- [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
+- [Coding Addict](https://www.youtube.com/c/CodingAddict)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
 ### **Books**
