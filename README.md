@@ -24,6 +24,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Scrimba](https://scrimba.com/)
 - [Progate](https://progate.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Academind](https://academind.com/)
 
 ### **Youtube channels**
 - [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
@@ -33,6 +34,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [CS Dojo](https://www.youtube.com/c/CSDojo)
 - [Net Ninja](https://www.youtube.com/c/TheNetNinja)
+- [Academind](https://www.youtube.com/c/Academind)
 
 ### **Books**
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
