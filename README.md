@@ -22,6 +22,7 @@ We would love to know which resources you think deserve to be included in our li
 - [SoloLearn](https://www.sololearn.com/home)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Scrimba](https://scrimba.com/)
+- [Progate](https://progate.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 
 ### **Youtube channels**
