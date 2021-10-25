@@ -59,6 +59,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Full stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) by The Odin Project
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) by The University of Michigan
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) by MIT
+- [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
 
 ### **Podcasts**
 
