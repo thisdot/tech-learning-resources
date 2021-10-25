@@ -41,6 +41,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Academind](https://www.youtube.com/c/Academind)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Bruno Antunes](https://www.youtube.com/c/BrunoAntunesPT)
 
 ### **Books**
 
