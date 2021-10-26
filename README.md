@@ -72,6 +72,7 @@ We would love to know which resources you think deserve to be included in our li
 - [React Podcast](https://spec.fm/podcasts/reactpodcast)
 - [She's in Tech](https://shesintechpodcast.com/)
 - [Syntax](https://syntax.fm/)
+- [Talk Python To Me](https://talkpython.fm)
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
