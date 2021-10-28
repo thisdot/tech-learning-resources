@@ -6,11 +6,13 @@ We would love to know which resources you think deserve to be included in our li
 
 ## **Table of Contents**
 
-- [Websites](#websites)
-- [YouTube channels](#youtube-channels)
-- [Books](#books)
-- [Courses](#courses)
-- [Podcasts](#podcasts)
+- [Learning Resources for Developers](#learning-resources-for-developers)
+- [**Table of Contents**](#table-of-contents)
+  - [**Websites**](#websites)
+  - [**Youtube channels**](#youtube-channels)
+  - [**Books**](#books)
+  - [**Courses**](#courses)
+  - [**Podcasts**](#podcasts)
 
 ### **Websites**
 
@@ -27,6 +29,8 @@ We would love to know which resources you think deserve to be included in our li
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
 - [Udacity](https://udacity.com/)
+- [Udemy] (https://www.udemy.com/)
+- [w3schools] (https://www.w3schools.com/)
 - [edX](https://www.edx.org/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
