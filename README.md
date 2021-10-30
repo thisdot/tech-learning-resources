@@ -31,8 +31,12 @@ We would love to know which resources you think deserve to be included in our li
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
 - [Udacity](https://udacity.com/)
-- [Udemy] (https://www.udemy.com/)
+- [edX](https://www.edx.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Treehouse](https://teamtreehouse.com/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [w3schools] (https://www.w3schools.com/)
+
 
 ### **Youtube channels**
 
@@ -49,12 +53,14 @@ We would love to know which resources you think deserve to be included in our li
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
+
 ### **Books**
 
 - [+100 slides on HTML & CSS best practices](https://georgemoller.gumroad.com/l/hQWSH)
 - [+80 slides on UI/UX best practices](https://georgemoller.gumroad.com/l/MAVqE)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
+- [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
 
 ### **Courses**
 
