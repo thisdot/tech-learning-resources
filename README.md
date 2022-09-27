@@ -44,7 +44,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
 - [Coding Addict](https://www.youtube.com/c/CodingAddict)
 - [Faraday Academy](https://www.youtube.com/c/FaradayAcademy)
-- [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 - [Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
