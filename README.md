@@ -1,20 +1,18 @@
-## Learning Resources for Developers
+## Learning Resources for Developers<!-- omit in toc -->
 
 Here you will find a list of different learning resources that cover a vast array of different topics.
 
 We would love to know which resources you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
-## **Table of Contents**
+## Table of Contents<!-- omit in toc -->
 
-- [Learning Resources for Developers](#learning-resources-for-developers)
-- [**Table of Contents**](#table-of-contents)
-  - [**Websites**](#websites)
-  - [**Youtube channels**](#youtube-channels)
-  - [**Books**](#books)
-  - [**Courses**](#courses)
-  - [**Podcasts**](#podcasts)
+- [Websites](#websites)
+- [YouTube channels](#youtube-channels)
+- [Books](#books)
+- [Courses](#courses)
+- [Podcasts](#podcasts)
 
-### **Websites**
+## Websites
 
 - [Academind](https://academind.com/)
 - [Codecademy](https://www.codecademy.com/)
@@ -35,10 +33,9 @@ We would love to know which resources you think deserve to be included in our li
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Treehouse](https://teamtreehouse.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-- [w3schools] (https://www.w3schools.com/)
+- [w3schools](https://www.w3schools.com/)
 
-
-### **Youtube channels**
+## YouTube channels
 
 - [Academind](https://www.youtube.com/c/Academind)
 - [Bruno Antunes](https://www.youtube.com/c/BrunoAntunesPT)
@@ -53,8 +50,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
-
-### **Books**
+## Books
 
 - [+100 slides on HTML & CSS best practices](https://georgemoller.gumroad.com/l/hQWSH)
 - [+80 slides on UI/UX best practices](https://georgemoller.gumroad.com/l/MAVqE)
@@ -62,7 +58,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
 
-### **Courses**
+## Courses
 
 - [CS50: Introduction To Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) by Harvard University
 - [CSS for JavaScript Developers](https://css-for-js.dev) by Josh W Comeau
@@ -74,7 +70,7 @@ We would love to know which resources you think deserve to be included in our li
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
 
-### **Podcasts**
+## Podcasts
 
 - [Chats with Kent C. Dodds](https://kentcdodds.com/chats/04)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
