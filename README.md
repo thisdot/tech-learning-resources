@@ -34,6 +34,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Treehouse](https://teamtreehouse.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [w3schools](https://www.w3schools.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ## YouTube channels
 
