@@ -49,6 +49,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
 
 ## Books
 
