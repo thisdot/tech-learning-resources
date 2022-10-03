@@ -69,7 +69,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
-- [CS-433: Machine Learning]("https://www.epfl.ch/labs/mlo/machine-learning-cs-433/") by EPFL
+- [CS-433: Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) by EPFL
 
 ## Podcasts
 
