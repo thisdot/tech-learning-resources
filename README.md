@@ -49,7 +49,10 @@ We would love to know which resources you think deserve to be included in our li
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [William Candillon](https://www.youtube.com/c/wcandillon)
+- [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 - [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+
 
 ## Books
 
@@ -58,6 +61,8 @@ We would love to know which resources you think deserve to be included in our li
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
+- [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
+- [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
 
 ## Courses
 
