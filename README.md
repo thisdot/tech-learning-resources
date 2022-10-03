@@ -51,6 +51,8 @@ We would love to know which resources you think deserve to be included in our li
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [William Candillon](https://www.youtube.com/c/wcandillon)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
+- [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+
 
 ## Books
 
