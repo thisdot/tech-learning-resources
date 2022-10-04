@@ -22,6 +22,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Fireship](https://fireship.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Laracasts](https://laracasts.com/)
 - [Progate](https://progate.com/)
 - [Scrimba](https://scrimba.com/)
@@ -29,12 +30,9 @@ We would love to know which resources you think deserve to be included in our li
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
 - [Udacity](https://udacity.com/)
-- [edX](https://www.edx.org/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
 - [Treehouse](https://teamtreehouse.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-- [w3schools](https://www.w3schools.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [W3Schools](https://www.w3schools.com/)
 
 ## YouTube channels
 
