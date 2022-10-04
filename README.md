@@ -62,6 +62,7 @@ We would love to know which resources you think deserve to be included in our li
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+- [Learning Patterns - Lydia Hallie and Addy Osmani](https://archive.org/details/learning-patterns/learning-patterns-final-v1.1/)
 
 ## Courses
 
