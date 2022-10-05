@@ -33,6 +33,8 @@ We would love to know which resources you think deserve to be included in our li
 - [Treehouse](https://teamtreehouse.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [W3Schools](https://www.w3schools.com/)
+- [codeAvengers](https://www.codeavengers.com/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 ## YouTube channels
 
@@ -51,6 +53,9 @@ We would love to know which resources you think deserve to be included in our li
 - [William Candillon](https://www.youtube.com/c/wcandillon)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 - [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+- [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
 
 
 ## Books
@@ -76,6 +81,8 @@ We would love to know which resources you think deserve to be included in our li
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
 - [CS-433: Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) by EPFL
+- [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) by INSEAD
+ 
 
 ## Podcasts
 
