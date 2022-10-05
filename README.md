@@ -33,7 +33,6 @@ We would love to know which resources you think deserve to be included in our li
 - [Treehouse](https://teamtreehouse.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [W3Schools](https://www.w3schools.com/)
-
 - [codeAvengers](https://www.codeavengers.com/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
