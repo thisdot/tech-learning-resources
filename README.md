@@ -51,6 +51,8 @@ We would love to know which resources you think deserve to be included in our li
 - [William Candillon](https://www.youtube.com/c/wcandillon)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 - [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+- [Fireship](https://www.youtube.com/c/Fireship)
 
 
 ## Books
