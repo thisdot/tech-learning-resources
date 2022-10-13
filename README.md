@@ -35,6 +35,7 @@ We would love to know which resources you think deserve to be included in our li
 - [W3Schools](https://www.w3schools.com/)
 - [codeAvengers](https://www.codeavengers.com/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [Luv](https://www.youtube.com/c/LuvIsMe)
 
 ## YouTube channels
 
