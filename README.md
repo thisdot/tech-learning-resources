@@ -53,9 +53,14 @@ We would love to know which resources you think deserve to be included in our li
 - [William Candillon](https://www.youtube.com/c/wcandillon)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
 - [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+ > This channel's most amazing playlist is Git and GitHub Playlist. You will feel like you have conquered git from basics to end. DO CHECK IT OUT!
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+ > This is a channel to help people become master in JavaScript and Web Development. It has tons of projects which you can work on and add them to your resume.
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+ > This is a channel to help those interested in learning coding from basics to pro level. There are literally tons of videos and playlist on various fields like AI/ML, C++, Java, Python, SQL, Web Development, Android Development and much more.
 - [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
+ > This is a channel to help those interested in learning programming and preparing for Job Interviews in C++/Java. There are amazing playlist with a lot of high quality content on C++ and Java.
+
 
 
 ## Books
