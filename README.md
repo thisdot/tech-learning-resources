@@ -56,6 +56,7 @@ We would love to know which resources you think deserve to be included in our li
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
+- [take U forward](https://www.youtube.com/c/takeUforward)
 - [Kunal Kushwaha](https://www.youtube.com/c/kunalkushwaha)
 
 
