@@ -15,6 +15,7 @@ We would love to know which resources you think deserve to be included in our li
 ## Websites
 
 - [Academind](https://academind.com/)
+- [codeAvengers](https://www.codeavengers.com/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
@@ -23,57 +24,58 @@ We would love to know which resources you think deserve to be included in our li
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Laracasts](https://laracasts.com/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [Luv](https://www.youtube.com/c/LuvIsMe)
 - [Progate](https://progate.com/)
 - [Scrimba](https://scrimba.com/)
 - [SoloLearn](https://www.sololearn.com/home)
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
-- [Udacity](https://udacity.com/)
 - [Treehouse](https://teamtreehouse.com/)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Udacity](https://udacity.com/)
 - [W3Schools](https://www.w3schools.com/)
-- [codeAvengers](https://www.codeavengers.com/)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-- [Luv](https://www.youtube.com/c/LuvIsMe)
 
 ## YouTube channels
 
 - [Academind](https://www.youtube.com/c/Academind)
+- [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
+- [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
+- [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Bruno Antunes](https://www.youtube.com/c/BrunoAntunesPT)
-- [CS Dojo](https://www.youtube.com/c/CSDojo)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 - [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [Coding Addict](https://www.youtube.com/c/CodingAddict)
+- [CS Dojo](https://www.youtube.com/c/CSDojo)
 - [Faraday Academy](https://www.youtube.com/c/FaradayAcademy)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+- [Kunal Kushwaha](https://www.youtube.com/c/kunalkushwaha)
 - [Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Sonny Sangha](https://www.youtube.com/c/SonnySangha)
+- [take U forward](https://www.youtube.com/c/takeUforward)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [William Candillon](https://www.youtube.com/c/wcandillon)
-- [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
-- [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
-- [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
-- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
-- [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
-- [take U forward](https://www.youtube.com/c/takeUforward)
-- [Kunal Kushwaha](https://www.youtube.com/c/kunalkushwaha)
 
 
 ## Books
 
 - [+100 slides on HTML & CSS best practices](https://georgemoller.gumroad.com/l/hQWSH)
 - [+80 slides on UI/UX best practices](https://georgemoller.gumroad.com/l/MAVqE)
-- [Eloquent Javascript](https://eloquentjavascript.net/)
-- [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
-- [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
-- [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Learning Patterns - Lydia Hallie and Addy Osmani](https://archive.org/details/learning-patterns/learning-patterns-final-v1.1/)
+- [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
+- [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
+- [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
 
 ## Courses
 
+- [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) by INSEAD
+- [CS-433: Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) by EPFL
 - [CS50: Introduction To Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) by Harvard University
 - [CSS for JavaScript Developers](https://css-for-js.dev) by Josh W Comeau
 - [Foundations of User Experience (UX) Design](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design) by Google
@@ -83,9 +85,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
-- [CS-433: Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) by EPFL
-- [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) by INSEAD
- 
+
 
 ## Podcasts
 
