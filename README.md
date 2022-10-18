@@ -21,6 +21,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
 - [Egghead](https://egghead.io/)
+- [Exercism](https://exercism.org/)
 - [Fireship](https://fireship.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
