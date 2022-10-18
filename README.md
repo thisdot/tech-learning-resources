@@ -73,6 +73,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107/ref=sr_1_8?crid=1MEOK4WSR4QN0&keywords=effective+programmer&qid=1666109147&qu=eyJxc2MiOiIxLjY1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=effective+programme%2Cstripbooks-intl-ship%2C158&sr=1-8)
 
 ## Courses
 
@@ -87,6 +88,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/) by fullstackopen.com
 
 
 ## Podcasts
@@ -102,3 +104,4 @@ We would love to know which resources you think deserve to be included in our li
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
+- [React Wednesdays Podcast](https://www.telerik.com/react-wednesdays#:~:text=React%20Wednesdays%20is%20a%20chat,episode%20recordings%20available%20on%20demand)
