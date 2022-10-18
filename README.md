@@ -73,6 +73,10 @@ We would love to know which resources you think deserve to be included in our li
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
+- [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
+- [An Introduction to Machine Learning - Machine Learning Summer](https://www.pdfdrive.com/an-introduction-to-machine-learning-machine-learning-summer-e10685818.html)
+- [Python for Everybody](https://www.py4e.com/book)
+- [Node.js in Action](https://dokumen.pub/nodejs-in-action-2nbsped-1617292575-9781617292576.html)
 
 ## Courses
 
