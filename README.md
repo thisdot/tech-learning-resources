@@ -74,6 +74,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
+- [Guide to competitive programming](https://www.amazon.com/s?k=guide+to+competitive+programming&i=stripbooks-intl-ship&crid=1ZMZQ80Z9PU91&sprefix=guide+to+competitive+programming%2Cstripbooks-intl-ship%2C322&ref=nb_sb_noss_1)
 
 ## Courses
 
