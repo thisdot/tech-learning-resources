@@ -21,12 +21,15 @@ We would love to know which resources you think deserve to be included in our li
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
 - [Egghead](https://egghead.io/)
+- [Exercism](https://exercism.org/)
 - [Fireship](https://fireship.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Frontend Masters](https://frontendmasters.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Laracasts](https://laracasts.com/)
+- [Learn JavaScript](https://learnjavascript.online/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [Luv](https://www.youtube.com/c/LuvIsMe)
 - [Progate](https://progate.com/)
@@ -68,15 +71,18 @@ We would love to know which resources you think deserve to be included in our li
 - [+100 slides on HTML & CSS best practices](https://georgemoller.gumroad.com/l/hQWSH)
 - [+80 slides on UI/UX best practices](https://georgemoller.gumroad.com/l/MAVqE)
 - [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+- [An Introduction to Machine Learning - Machine Learning Summer](https://www.pdfdrive.com/an-introduction-to-machine-learning-machine-learning-summer-e10685818.html)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
+- [Guide to competitive programming](https://www.amazon.com/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3319725467)
+- [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
 - [Learning Patterns - Lydia Hallie and Addy Osmani](https://archive.org/details/learning-patterns/learning-patterns-final-v1.1/)
+- [Node.js in Action](https://dokumen.pub/nodejs-in-action-2nbsped-1617292575-9781617292576.html)
+- [Python for Everybody](https://www.py4e.com/book)
 - [Secrets of the JavaScript Ninja](https://www.amazon.ca/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850)
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
-- [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
-- [An Introduction to Machine Learning - Machine Learning Summer](https://www.pdfdrive.com/an-introduction-to-machine-learning-machine-learning-summer-e10685818.html)
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 - [Python for Everybody](https://www.py4e.com/book)
-- [Node.js in Action](https://dokumen.pub/nodejs-in-action-2nbsped-1617292575-9781617292576.html)
 
 ## Courses
 
@@ -91,6 +97,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) by freeCodeCamp
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by Dev Ed
 - [Ultimate Courses](https://ultimatecourses.com) by Todd Motto
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/) by fullstackopen.com
 
 
 ## Podcasts
@@ -106,3 +113,4 @@ We would love to know which resources you think deserve to be included in our li
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
+- [React Wednesdays Podcast](https://www.telerik.com/react-wednesdays#)
