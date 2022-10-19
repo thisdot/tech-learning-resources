@@ -82,8 +82,6 @@ We would love to know which resources you think deserve to be included in our li
 - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038)
 - [The Self Taught Programmer](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/0999685902)
 - [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
-- [Python for Everybody](https://www.py4e.com/book)
-
 ## Courses
 
 - [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) by INSEAD
