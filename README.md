@@ -104,4 +104,4 @@ We would love to know which resources you think deserve to be included in our li
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
-- [React Wednesdays Podcast](https://www.telerik.com/react-wednesdays#:~:text=React%20Wednesdays%20is%20a%20chat,episode%20recordings%20available%20on%20demand)
+- [React Wednesdays Podcast](https://www.telerik.com/react-wednesdays#)
