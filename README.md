@@ -43,6 +43,7 @@ We would love to know which resources you think deserve to be included in our li
 
 ## YouTube channels
 
+- [Abdul Bari](https://m.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/playlists)
 - [Academind](https://www.youtube.com/c/Academind)
 - [Aman Fangeria](https://www.youtube.com/c/AmanFangeria)
 - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
