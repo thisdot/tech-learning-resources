@@ -38,6 +38,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Learn JavaScript](https://learnjavascript.online/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [Luv](https://www.youtube.com/c/LuvIsMe)
+- [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Progate](https://progate.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Scrimba](https://scrimba.com/)
