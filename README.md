@@ -32,6 +32,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Frontend Masters](https://frontendmasters.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/)
 - [Hackr](https://hackr.io/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Laracasts](https://laracasts.com/)
