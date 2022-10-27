@@ -50,7 +50,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Udemy](https://udemy.com/)
 - [Upskill](https://upskillcourses.com/)
 - [W3Schools](https://www.w3schools.com/)
-
+- [CodProg](https://www.codprog.com/)
 ## YouTube channels
 
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner)
@@ -83,6 +83,10 @@ We would love to know which resources you think deserve to be included in our li
 - [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [William Candillon](https://www.youtube.com/c/wcandillon)
+- [Harshit vashisth](https://www.youtube.com/c/Harshitvashisth)
+- [Code Diggers](https://www.youtube.com/c/CodeDiggers)
+- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
+- [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
 
 
 ## Books
