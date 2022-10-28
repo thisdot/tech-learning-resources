@@ -149,7 +149,6 @@ We would love to know which resources you think deserve to be included in our li
 - [Talking Machines](https://www.thetalkingmachines.com/)
 - [The Changelog Podcast](https://changelog.com/podcast)
 - [The Hanselminutes Podcast](https://hanselminutes.com/)
-- [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [The CSS Podcast](https://thecsspodcast.libsyn.com/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp)
