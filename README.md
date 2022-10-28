@@ -22,6 +22,7 @@ We would love to know which resources you think deserve to be included in our li
 - [CodeOpinion](https://codeopinion.com/)
 - [Coderbyte](https://coderbyte.com/)
 - [codeSTACKr](https://www.codestackr.com/)
+- [CodProg](https://www.codprog.com/)
 - [Coursera](https://www.coursera.org/)
 - [Edureka](https://www.edureka.co/)
 - [edX](https://www.edx.org/)
@@ -50,7 +51,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Udemy](https://udemy.com/)
 - [Upskill](https://upskillcourses.com/)
 - [W3Schools](https://www.w3schools.com/)
-- [CodProg](https://www.codprog.com/)
+
 ## YouTube channels
 
 - [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner)
@@ -61,6 +62,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Apna College ](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Bruno Antunes](https://www.youtube.com/c/BrunoAntunesPT)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Code Diggers](https://www.youtube.com/c/CodeDiggers)
 - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 - [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
@@ -71,7 +73,9 @@ We would love to know which resources you think deserve to be included in our li
 - [Faraday Academy](https://www.youtube.com/c/FaradayAcademy)
 - [Florin Pop](https://www.youtube.com/c/FlorinPop)
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [Harshit vashisth](https://www.youtube.com/c/Harshitvashisth)
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+- [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
 - [Kunal Kushwaha](https://www.youtube.com/c/kunalkushwaha)
 - [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/featured)
 - [Net Ninja](https://www.youtube.com/c/TheNetNinja)
@@ -81,12 +85,9 @@ We would love to know which resources you think deserve to be included in our li
 - [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
 - [take U forward](https://www.youtube.com/c/takeUforward)
 - [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
+- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 - [William Candillon](https://www.youtube.com/c/wcandillon)
-- [Harshit vashisth](https://www.youtube.com/c/Harshitvashisth)
-- [Code Diggers](https://www.youtube.com/c/CodeDiggers)
-- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
-- [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/c/JennyslecturesCSITNETJRF)
 
 
 ## Books
