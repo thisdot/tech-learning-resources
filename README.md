@@ -95,6 +95,7 @@ We would love to know which resources you think deserve to be included in our li
 - [sentdex](https://www.youtube.com/c/sentdex)
 - [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3)
 - [take U forward](https://www.youtube.com/c/takeUforward)
+- [Test Automation University](https://testautomationu.applitools.com/)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 - [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
