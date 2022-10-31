@@ -11,6 +11,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Books](#books)
 - [Courses](#courses)
 - [Podcasts](#podcasts)
+- [Blogs](#blogs)
 
 ## Websites
 
@@ -32,26 +33,32 @@ We would love to know which resources you think deserve to be included in our li
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Frontend Masters](https://frontendmasters.com/)
+- [FullStackPython](https://www.fullstackpython.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Google](https://developers.google.com/edu/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Hackr](https://hackr.io/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Laracasts](https://laracasts.com/)
 - [Learn JavaScript](https://learnjavascript.online/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
 - [Luv](https://www.youtube.com/c/LuvIsMe)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Progate](https://progate.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Scrimba](https://scrimba.com/)
+- [SimpleLearn](https://www.simplilearn.com/tutorials/)
 - [SoloLearn](https://www.sololearn.com/home)
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
 - [Treehouse](https://teamtreehouse.com/)
+- [Tutorial Point](https://www.tutorialspoint.com/)
 - [Udacity](https://udacity.com/)
 - [Udemy](https://udemy.com/)
 - [Upskill](https://upskillcourses.com/)
 - [W3Schools](https://www.w3schools.com/)
+
 
 ## YouTube channels
 
@@ -165,3 +172,10 @@ We would love to know which resources you think deserve to be included in our li
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp)
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
 - [React Wednesdays Podcast](https://www.telerik.com/react-wednesdays#)
+
+## Blogs
+
+- [Hashnode Python Blogs](https://hashnode.com/n/python) by [Hashnode](https://hashnode.com)
+- [Planet Python](https://planetpython.org/)
+- [Full Stack Python](https://www.fullstackpython.com/blog.html)
+- [Real Python](https://realpython.com/)  
