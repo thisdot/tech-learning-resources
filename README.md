@@ -50,6 +50,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Scrimba](https://scrimba.com/)
 - [SimpleLearn](https://www.simplilearn.com/tutorials/)
 - [SoloLearn](https://www.sololearn.com/home)
+- [Test Automation University](https://testautomationu.applitools.com/)
 - [The Odin Project](https://www.theodinproject.com/)
 - [This Dot Media](https://www.thisdotmedia.com/)
 - [Treehouse](https://teamtreehouse.com/)
