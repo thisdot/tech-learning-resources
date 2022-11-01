@@ -46,6 +46,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Luv](https://www.youtube.com/c/LuvIsMe)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Progate](https://progate.com/)
+- [DataCamp](https://www.datacamp.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Scrimba](https://scrimba.com/)
 - [SimpleLearn](https://www.simplilearn.com/tutorials/)
