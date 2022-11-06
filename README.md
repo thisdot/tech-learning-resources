@@ -101,6 +101,7 @@ We would love to know which resources you think deserve to be included in our li
 - [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 - [William Candillon](https://www.youtube.com/c/wcandillon)
 
 
