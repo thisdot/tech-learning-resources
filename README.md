@@ -76,6 +76,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Code Diggers](https://www.youtube.com/c/CodeDiggers)
 - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 - [Code with Anna Kubów](https://www.youtube.com/c/AniaKubów)
+- [Coder Coder](https://www.youtube.com/@TheCoderCoder)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [Coding Addict](https://www.youtube.com/c/CodingAddict)
 - [CS Dojo](https://www.youtube.com/c/CSDojo)
