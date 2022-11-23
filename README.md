@@ -36,6 +36,7 @@ We would love to know which resources you think deserve to be included in our li
 - [FullStackPython](https://www.fullstackpython.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Google](https://developers.google.com/edu/)
+- [Great Learning](https://www.mygreatlearning.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Hackr](https://hackr.io/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
