@@ -49,6 +49,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Progate](https://progate.com/)
 - [DataCamp](https://www.datacamp.com/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [Scaler](https://www.scaler.com/)
 - [Scrimba](https://scrimba.com/)
 - [SimpleLearn](https://www.simplilearn.com/tutorials/)
 - [SoloLearn](https://www.sololearn.com/home)
