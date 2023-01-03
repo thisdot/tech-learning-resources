@@ -24,6 +24,7 @@ We would love to know which resources you think deserve to be included in our li
 - [Coderbyte](https://coderbyte.com/)
 - [codeSTACKr](https://www.codestackr.com/)
 - [CodProg](https://www.codprog.com/)
+- [CompSciLib](https://www.compscilib.com/)
 - [Coursera](https://www.coursera.org/)
 - [Edureka](https://www.edureka.co/)
 - [edX](https://www.edx.org/)
